@@ -1,0 +1,5 @@
+/* Put your CSS here */
+html, body {
+    background-image:url(../imagen/arco.jpg);
+    background-position: center top;
+}
